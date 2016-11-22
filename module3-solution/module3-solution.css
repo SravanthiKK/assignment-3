@@ -59,12 +59,12 @@ h3{
   border-color: #99c1d6;
   font-family:'Philosopher', sans-serif;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -0px;
+  margin-right: -0px;
   color:#832f49;
   background-color: #8ee5a1;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: -6px;
+  margin-bottom: -6px;
   }
 
 #chicken {
